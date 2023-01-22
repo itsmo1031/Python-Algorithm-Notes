@@ -40,7 +40,7 @@
 
 ### Data Structure
 
-- Disjoint-Set (Union-Find)](/Data%20Structure/disjoint_set.py)
+- Disjoint-Set (Union-Find)
 - Tree
 - Line
 - Plane
@@ -61,7 +61,7 @@
 
 ### Geometry
 
-- Number of intersection points of two lines in 1 dimension](/Geometry/number_of_intersection_points_of_two_lines_in_1_dimension.py)
+- Number of intersection points of two lines in 1 dimension
 - CCW
 - Convex Hull
 - Polygon
