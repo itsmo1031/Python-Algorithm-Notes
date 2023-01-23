@@ -91,5 +91,5 @@
 - Interval Sum
   - Prefix Sum
   - Fenwick Tree (Binary Indexed Tree)
-- Matrix Rotation
+- [Matrix Rotation](./Miscellaneous/Matrix%20Rotation/)
 - Handling Recursion Limit
