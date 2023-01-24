@@ -25,10 +25,9 @@
 - Binary Search
 - Python Binary Search Library
   - Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array
-- DFS
-- BFS
+- [DFS (Depth-First Search)](./Searching/DFS/depth_first_search.py)
+- [BFS (Breadth-First Search)](./Searching/BFS/breadth_first_search.py)
   - Find the number of connected components
-- DFS & BFS Examples 1
 
 ### Graph
 
